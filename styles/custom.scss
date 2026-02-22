@@ -47,9 +47,20 @@ body {
   background-color: $body-bg !important;
 }
 
+// Align navbar left edge with body content (photo column)
+// Quarto grid: 25.5px screen-start + 194px page margin + 25.5px body padding = 245px to body-content-start
+// We set the navbar container to match the page-level grid width (720px body + 194px each side = ~1108px)
+// then let the brand + links naturally sit at the same left edge as the body content
+.navbar > .container-fluid {
+  max-width: calc(720px + 2 * 194px + 2 * 25.5px);
+  margin: 0 auto;
+  padding-left: calc(194px + 25.5px);
+  padding-right: 25.5px;
+}
+
 .navbar-brand {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 2.4rem;
+  font-size: 1.5rem;
   font-weight: 400;
   letter-spacing: 4px;
   text-transform: lowercase;
@@ -62,7 +73,7 @@ body {
 
 .navbar .nav-link {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 1.4rem;
+  font-size: 0.95rem;
   font-weight: 400;
   letter-spacing: 1px;
   text-transform: lowercase;
@@ -78,7 +89,7 @@ body {
 
 .navbar .nav-link.active {
   color: #222 !important;
-  font-weight: 700;
+  font-weight: 400;
   text-decoration: underline;
   text-underline-offset: 6px;
   text-decoration-thickness: 2px;
@@ -180,12 +191,22 @@ blockquote p {
 .pub-entry {
   margin-bottom: 1.8rem;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid #eee;
+  border-bottom: none;
   line-height: 1.6;
+  position: relative;
 }
 
-.pub-entry:last-child {
-  border-bottom: none;
+.pub-entry::after {
+  content: '';
+  display: block;
+  width: 60%;
+  height: 1px;
+  background: #ddd;
+  margin-top: 1.5rem;
+}
+
+.pub-entry:last-child::after {
+  display: none;
 }
 
 .pub-authors {

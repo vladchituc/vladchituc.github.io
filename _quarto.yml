@@ -14,7 +14,7 @@ website:
     left:
       - href: index.qmd
         text: home
-      - href: "#publications"
+      - href: research.qmd
         text: research
       - href: writing.qmd
         text: writing
