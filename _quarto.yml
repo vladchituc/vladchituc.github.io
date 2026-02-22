@@ -24,7 +24,7 @@ website:
         text: contact
 
   page-footer:
-    left: "vladimir.chituc@yale.edu"
+    left: "vladimir dot chituc at yale dot edu"
     right: "Built with [Quarto](https://quarto.org)"
     background: "#f7f2f2"
     foreground: "#999999"
