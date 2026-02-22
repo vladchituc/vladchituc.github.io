@@ -1,0 +1,129 @@
+---
+title: "research"
+pagetitle: "Research — vlad chituc"
+---
+
+## journal articles
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors}, Crockett, M. J., & Scholl, B. J. (2025). [How to show that a cruel prank is worse than a war crime: Shifting scales and missing benchmarks in the study of moral judgment.]{.pub-title} [*Cognition.*]{.pub-venue}
+
+::: {.pub-links}
+[preprint](s/Chituc-EtAl-InPress-Cognition.pdf) [web](https://doi.org/10.1016/j.cognition.2025.106062) [data](s/magnitude-estimation.zip)
+:::
+:::
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors}, & Scholl, B. J. (2025). [The El Greco fallacy, this time with feeling: How (not) to measure group differences in emotional intensity.]{.pub-title} [*Affective Science.*]{.pub-venue}
+
+::: {.pub-links}
+[preprint](s/Chituc-Scholl-InPress-AffSci.pdf) [web](https://doi.org/10.1007/s42761-025-00314-z)
+:::
+:::
+
+::: {.pub-entry}
+McKee, P., Kim, He., Tang, H., Everett, J.A.C, [**Chituc, V.**]{.pub-authors}, Gibea, T., Murrins Marques, L., Boggio, P., Sinnott-Armstrong, W. (2023). [Does it matter who harmed whom? A cross-cultural study of moral judgments about harm by and to insiders and outsiders.]{.pub-title} [*Current Psychology.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1007/s12144-023-04986-3)
+:::
+:::
+
+::: {.pub-entry}
+Everett, J. A. C., Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W. J., Chawla, M., [**Chituc, V.**]{.pub-authors}, … Crockett, M. J. (2021). [Moral dilemmas and trust in leaders during a global health crisis.]{.pub-title} [*Nature Human Behaviour.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1038/s41562-021-01156-y)
+:::
+:::
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors}, & Sinnott-Armstrong, W. (2020). [Moral conformity and its philosophical lessons.]{.pub-title} [*Philosophical Psychology.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1080/09515089.2020.1782539)
+:::
+:::
+
+::: {.pub-entry}
+Henne, P., Semler, J., [**Chituc, V.**]{.pub-authors}, De Brigard, F., & Sinnott-Armstrong, W. (2018). [Against some recent arguments for 'ought' implies 'can.']{.pub-title} [*Philosophia.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1007/s11406-017-9843-x)
+:::
+:::
+
+::: {.pub-entry}
+Kelly, M., Ngo, L., [**Chituc, V.**]{.pub-authors}, Huettel, S., & Sinnott-Armstrong, W. (2017). [Moral conformity in online interactions: rational justifications increase influence of peer opinions on moral judgments.]{.pub-title} [*Social Influence.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1080/15534510.2017.1323007)
+:::
+:::
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors}, Henne, P., Sinnott-Armstrong, W., & De Brigard, F. (2016). [Blame, not ability, impacts moral "ought" judgments for impossible actions: Toward an empirical refutation of "ought" implies "can."]{.pub-title} [*Cognition.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1016/j.cognition.2015.11.012)
+:::
+:::
+
+::: {.pub-entry}
+Henne, P., [**Chituc, V.**]{.pub-authors}, De Brigard, F., & Sinnott-Armstrong, W. (2016). [An empirical refutation of 'ought' implies 'can.']{.pub-title} [*Analysis.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1093/analys/anv096)
+:::
+:::
+
+::: {.pub-entry}
+Strohminger, N., Gray, K., [**Chituc, V.**]{.pub-authors}, Heffner, J., Schein, C., & Heagins, T. B. (2015). [The MR2: A multi-racial, mega-resolution database of facial stimuli.]{.pub-title} [*Behavior Research Methods.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.3758/s13428-014-0532-5)
+:::
+:::
+
+::: {.pub-entry}
+Gjersoe, N. L., Newman, G., [**Chituc, V.**]{.pub-authors}, and Hood, B. (2014). [Individualism and the extended-self: Cross-cultural differences in the valuation of authentic objects.]{.pub-title} [*PLoS ONE.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1371/journal.pone.0090787)
+:::
+:::
+
+::: {.pub-entry}
+Edwards, B. E., Rottman, B., Shankar, M., Betzler, R., [**Chituc, V.**]{.pub-authors}, Rodriguez, R., Silva, L., Wibecan, L., Widness, J., & Santos, L. R. (2014). [Do capuchin monkeys (Cebus apella) diagnose causal relations in the absence of a direct reward?]{.pub-title} [*PLoS ONE.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1371/journal.pone.0073595)
+:::
+:::
+
+
+## preprints and book chapters
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors} (unpublished manuscript). [On the magic of 10 bits/s: A surprise constraint on the channel capacity of machine and human intelligence.]{.pub-title} [Written as a response to [this article](https://doi.org/10.1016/j.neuron.2024.11.008) in *Neuron*.]{.pub-venue}
+
+::: {.pub-links}
+[preprint](https://vladchituc.substack.com/p/on-the-magic-of-10-bitss)
+:::
+:::
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors}, Paul, L., & Crockett, M. (2021). [Evaluating Transformative Decisions.]{.pub-title} [*Proceedings of the Annual Meeting of the Cognitive Science Society.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://escholarship.org/uc/item/98w533hb)
+:::
+:::
+
+::: {.pub-entry}
+Everett, J.A.C., Skorburg, J.A., Livingston, J.L., [**Chituc, V.**]{.pub-authors}, Crockett, M.J. (2022). [Morality dominates perceived identity persistence for the self, a stranger, a friend, and a foe.]{.pub-title} [In Tobia, K. (Ed.). *Experimental Philosophy of Identity and the Self*. London, Bloomsbury.]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.5040/9781350263789.ch-013)
+:::
+:::

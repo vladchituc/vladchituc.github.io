@@ -1,0 +1,357 @@
+/*-- scss:defaults --*/
+
+// === COLORS (matched from vladchituc.com Squarespace) ===
+$body-bg: #f7f2f2;
+$body-color: #5c5c5c;
+$link-color: #5c5c5c;
+$link-hover-color: #222222;
+
+// Headings
+$headings-color: #222222;
+
+// === TYPOGRAPHY ===
+// Body: Source Sans 3 (free replacement for proxima-nova)
+// Headings/Nav: Georgia (system serif, matches current site exactly)
+$font-family-sans-serif: 'Source Sans 3', 'Source Sans Pro', -apple-system, sans-serif;
+$headings-font-family: Georgia, 'Times New Roman', serif;
+$font-size-base: 1rem;
+$line-height-base: 1.8;
+$headings-font-weight: 400;
+
+// Disable Bootswatch web fonts
+$web-font-path: false;
+
+// === BORDERS / HR ===
+$hr-color: #ddd;
+$hr-opacity: 1;
+$border-color: #ddd;
+
+
+/*-- scss:rules --*/
+
+// === FONT IMPORT ===
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
+
+// === GLOBAL ===
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// === NAVBAR (replicating Squarespace header) ===
+.navbar {
+  border-bottom: 1px solid #ddd !important;
+  box-shadow: none !important;
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
+  background-color: $body-bg !important;
+}
+
+.navbar-brand {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 2.4rem;
+  font-weight: 400;
+  letter-spacing: 4px;
+  text-transform: lowercase;
+  color: #222 !important;
+}
+
+.navbar-brand:hover {
+  color: #222 !important;
+}
+
+.navbar .nav-link {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.4rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-transform: lowercase;
+  color: #888 !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  transition: color 0.2s ease;
+}
+
+.navbar .nav-link:hover {
+  color: #222 !important;
+}
+
+.navbar .nav-link.active {
+  color: #222 !important;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 6px;
+  text-decoration-thickness: 2px;
+}
+
+// === PAGE CONTENT ===
+#quarto-content {
+  padding-top: 1rem;
+}
+
+// === HEADINGS ===
+h1, h2, h3, h4 {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #222;
+  text-transform: lowercase;
+}
+
+h1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  letter-spacing: 2px;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #222;
+}
+
+// === LINKS ===
+a {
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+// === BLOCKQUOTE (Wittgenstein-style with left bar) ===
+blockquote {
+  border-left: 1px solid #5c5c5c;
+  padding-left: 1.2rem;
+  margin-left: 0;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+  color: #5c5c5c;
+}
+
+blockquote p {
+  margin-bottom: 0.3rem;
+}
+
+// === HOME PAGE ===
+.profile-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.15rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #222;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.social-links {
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.social-links a {
+  color: #5c5c5c;
+  margin: 0 0.3rem;
+}
+
+.social-links a:hover {
+  color: #222;
+}
+
+// === PUBLICATION LIST ===
+.pub-entry {
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+  line-height: 1.6;
+}
+
+.pub-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-authors {
+  font-size: 0.95rem;
+  color: #5c5c5c;
+}
+
+.pub-title {
+  font-weight: 600;
+  color: #222;
+}
+
+.pub-title a {
+  color: #222;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: #bbb;
+}
+
+.pub-title a:hover {
+  text-decoration-color: #222;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: #888;
+}
+
+.pub-year {
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.pub-links {
+  margin-top: 0.4rem;
+}
+
+.pub-links a {
+  font-size: 0.8rem;
+  color: #5c5c5c;
+  background: #ede8e8;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  margin-right: 0.4rem;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 0.2rem;
+}
+
+.pub-links a:hover {
+  background: #ddd;
+  color: #222;
+  text-decoration: none;
+}
+
+// === CV PAGE ===
+.cv-embed {
+  width: 100%;
+  height: 80vh;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.cv-download {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+  color: #5c5c5c;
+  border: 1px solid #ccc;
+  padding: 0.4rem 1rem;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.cv-download:hover {
+  background: #ede8e8;
+  color: #222;
+  text-decoration: none;
+}
+
+// === CONTACT FORM ===
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: #fff;
+  font-family: inherit;
+  font-size: 0.95rem;
+  color: #5c5c5c;
+  margin-bottom: 1rem;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #999;
+}
+
+.contact-form textarea {
+  min-height: 150px;
+  resize: vertical;
+}
+
+.contact-form label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #5c5c5c;
+  margin-bottom: 0.3rem;
+  display: block;
+}
+
+.contact-form button {
+  font-family: inherit;
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 0.6rem 2rem;
+  border: 1px solid #222;
+  background: transparent;
+  color: #222;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.contact-form button:hover {
+  background: #222;
+  color: #f7f2f2;
+}
+
+// === WRITING PAGE ===
+.writing-list {
+  list-style: none;
+  padding: 0;
+}
+
+.writing-list li {
+  margin-bottom: 0.4rem;
+  line-height: 1.6;
+}
+
+// === FOOTER ===
+.nav-footer {
+  font-size: 0.85rem;
+}
+
+// === RESPONSIVE ===
+@media (max-width: 767px) {
+  .navbar-brand {
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+  }
+
+  .navbar .nav-link {
+    font-size: 1.1rem;
+  }
+
+  .profile-photo {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+// === MISC ===
+// Remove Quarto's default title block on pages (we handle titles ourselves)
+.quarto-title-block {
+  display: none;
+}

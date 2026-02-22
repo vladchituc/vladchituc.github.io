@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "vlad chituc"
+  description: "Cognitive scientist studying psychophysics and measurement at Yale University"
+  site-url: https://vladchituc.com
+
+  navbar:
+    background: "#f7f2f2"
+    foreground: "#222222"
+    search: false
+    left:
+      - href: index.qmd
+        text: home
+      - href: "#publications"
+        text: research
+      - href: writing.qmd
+        text: writing
+      - href: cv.qmd
+        text: cv
+      - href: contact.qmd
+        text: contact
+
+  page-footer:
+    left: "vladimir.chituc@yale.edu"
+    right: "Built with [Quarto](https://quarto.org)"
+    background: "#f7f2f2"
+    foreground: "#999999"
+    border: true
+
+  page-navigation: false
+  reader-mode: false
+  open-graph: true
+
+format:
+  html:
+    theme: [default, styles/custom.scss]
+    toc: false
+    link-external-newwindow: true
+    grid:
+      body-width: 720px
+      sidebar-width: 0px
+      margin-width: 0px
+      gutter-width: 1.5rem

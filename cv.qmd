@@ -1,0 +1,9 @@
+---
+title: "cv"
+---
+
+<a href="assets/Chituc-CV.pdf" class="cv-download" download>↓ download cv (pdf)</a>
+
+<object data="assets/Chituc-CV.pdf" type="application/pdf" class="cv-embed">
+  <p>Your browser does not support embedded PDFs. <a href="assets/Chituc-CV.pdf">Download the CV here</a>.</p>
+</object>
