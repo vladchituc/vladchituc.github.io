@@ -40,28 +40,28 @@ body {
 
 // === NAVBAR (replicating Squarespace header) ===
 .navbar {
-  border-bottom: 1px solid #ddd !important;
+  border-bottom: none !important;
   box-shadow: none !important;
   padding-top: 2rem;
-  padding-bottom: 1.5rem;
+  padding-bottom: 0;
   background-color: $body-bg !important;
 }
 
-// Align navbar left edge with body content
-// Body is 580px centered; navbar needs to be wider to fit brand + links
-// but left edge should align with where body content starts
+// Constrain navbar to body content width so it aligns with text
 .navbar > .container-fluid {
-  max-width: 800px;
+  max-width: 580px;
   margin: 0 auto;
   padding-left: 0;
   padding-right: 0;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #ddd;
 }
 
 .navbar-brand {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 400;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
   text-transform: lowercase;
   color: #222 !important;
 }
@@ -72,13 +72,13 @@ body {
 
 .navbar .nav-link {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   font-weight: 400;
   letter-spacing: 1px;
   text-transform: lowercase;
   color: #888 !important;
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
+  padding-left: 0.7rem !important;
+  padding-right: 0.7rem !important;
   transition: color 0.2s ease;
 }
 
