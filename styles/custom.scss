@@ -39,6 +39,12 @@ body {
 }
 
 // === NAVBAR (replicating Squarespace header) ===
+// Disable Quarto's headroom hide-on-scroll — always show header
+#quarto-header.headroom--unpinned {
+  transform: none !important;
+  top: 0 !important;
+}
+
 .navbar {
   border-bottom: none !important;
   box-shadow: none !important;
@@ -55,6 +61,27 @@ body {
   padding-right: 0;
   padding-bottom: 1.2rem;
   border-bottom: 1px solid #ddd;
+}
+
+// Two-line navbar: brand on line 1, nav links on line 2
+.navbar .navbar-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.navbar .navbar-brand-container {
+  width: 100%;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  margin-bottom: 0.4rem;
+}
+
+.navbar .collapse.navbar-collapse {
+  flex-basis: 100%;
+}
+
+.navbar .navbar-nav {
+  flex-direction: row;
 }
 
 .navbar-brand {
@@ -77,8 +104,10 @@ body {
   letter-spacing: 1px;
   text-transform: lowercase;
   color: #888 !important;
-  padding-left: 0.7rem !important;
-  padding-right: 0.7rem !important;
+  padding-left: 0 !important;
+  padding-right: 1.2rem !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
   transition: color 0.2s ease;
 }
 
@@ -114,9 +143,9 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.15rem;
   font-weight: 400;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   margin-top: 4rem;
   margin-bottom: 1.2rem;
   padding-bottom: 1.2rem;
@@ -177,8 +206,8 @@ blockquote p {
 .social-links {
   text-align: center;
   font-size: 0.9rem;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 3rem;
   display: flex;
   justify-content: center;
   gap: 1.5rem;
@@ -203,8 +232,8 @@ blockquote p {
 
 // === PUBLICATION LIST ===
 .pub-entry {
-  margin-bottom: 1.8rem;
-  padding-bottom: 1.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.8rem;
   border-bottom: none;
   line-height: 1.6;
   position: relative;
@@ -213,10 +242,12 @@ blockquote p {
 .pub-entry::after {
   content: '';
   display: block;
-  width: 100%;
+  width: 200px;
   height: 1px;
   background: #ddd;
-  margin-top: 1.5rem;
+  margin-top: 0.8rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .pub-entry:last-child::after {
@@ -229,8 +260,8 @@ blockquote p {
 }
 
 .pub-title {
-  font-weight: 600;
-  color: #222;
+  font-weight: 400;
+  color: #333;
 }
 
 .pub-title a {
@@ -246,7 +277,7 @@ blockquote p {
 
 .pub-venue {
   font-style: italic;
-  color: #888;
+  color: #5c5c5c;
 }
 
 .pub-year {

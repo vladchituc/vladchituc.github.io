@@ -1,0 +1,78 @@
+---
+title: "vlad chituc"
+---
+
+::: {.grid}
+
+::: {.g-col-md-4 .g-col-12}
+
+<img src="assets/headshot.jpg" class="profile-photo" alt="Vlad Chituc">
+
+<div class="subtitle">Postdoctoral Associate at Yale University</div>
+
+<div class="social-links">
+[↗ cv](cv.qmd) | [↗ bsky](https://bsky.app/profile/vladchituc.com) | [↗ scholar](https://scholar.google.com/citations?user=vladchituc) | [↗ orcid](https://orcid.org/0000-0002-5316-6245)
+</div>
+
+:::
+
+::: {.g-col-md-8 .g-col-12}
+
+> *It is only from my own case that I know what the word "pain" means — must I not say the same of other people, too? And how can I generalize the one case so irresponsibly?*
+> — Wittgenstein's *Philosophical Investigations*, Sec. 293
+
+The inner lives of others cannot be observed, though they can be described. Given this, how can we bridge the gap between what a person *says* and what that person *feels* without doing what Wittgenstein cautions above—generalizing irresponsibly from our own, singular case?
+
+Broadly, I study how we bridge this gap (and how we can do it better), not only as researchers trying to understand the mind, but as people trying to understand one another. More specifically, my work builds on methods and insights from classic work in sensory psychophysics, which I extend to deeper (and fuzzier) topics like morality and emotion.
+
+I'm currently working with Laurie Santos on methodological issues surrounding the measurement of happiness. In another life I was a freelance writer, contributing mostly to *The Daily Beast*, though I'm particularly proud of pieces I've had in [*The New Republic*](https://newrepublic.com/article/122540/would-you-rather-lose-your-morals-or-your-memory) and [*The New York Times*](https://opinionator.blogs.nytimes.com/2016/02/19/the-data-against-kant/).
+
+:::
+
+:::
+
+---
+
+## select publications {#publications}
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors}, Crockett, M. J., & Scholl, B. J. (2025). [How to show that a cruel prank is worse than a war crime: Shifting scales and missing benchmarks in the study of moral judgment.]{.pub-title} [*Cognition.*]{.pub-venue}
+
+::: {.pub-links}
+[preprint](s/Chituc-EtAl-InPress-Cognition.pdf) [web](https://doi.org/10.1016/j.cognition.2025.106062) [data](s/magnitude-estimation.zip)
+:::
+:::
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors}, & Scholl, B. J. (2025). [The El Greco fallacy, this time with feeling: How (not) to measure group differences in emotional intensity.]{.pub-title} [*Affective Science.*]{.pub-venue}
+
+::: {.pub-links}
+[preprint](s/Chituc-Scholl-InPress-AffSci.pdf) [web](https://doi.org/10.1007/s42761-025-00314-z)
+:::
+:::
+
+::: {.pub-entry}
+Everett, J. A. C., Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W. J., Chawla, M., [**Chituc, V.**]{.pub-authors}, … Crockett, M. J. (2021). [Moral dilemmas and trust in leaders during a global health crisis.]{.pub-title} [*Nature Human Behaviour.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1038/s41562-021-01156-y)
+:::
+:::
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors}, Henne, P., Sinnott-Armstrong, W., & De Brigard, F. (2016). [Blame, not ability, impacts moral "ought" judgments for impossible actions: Toward an empirical refutation of "ought" implies "can."]{.pub-title} [*Cognition.*]{.pub-venue}
+
+::: {.pub-links}
+[web](https://doi.org/10.1016/j.cognition.2015.11.012)
+:::
+:::
+
+::: {.pub-entry}
+[**Chituc, V.**]{.pub-authors} (unpublished manuscript). [On the magic of 10 bits/s: A surprise constraint on the channel capacity of machine and human intelligence.]{.pub-title} [Written as a response to [this article](https://doi.org/10.1016/j.neuron.2024.11.008) in *Neuron*.]{.pub-venue}
+
+::: {.pub-links}
+[preprint](https://vladchituc.substack.com/p/on-the-magic-of-10-bitss)
+:::
+:::
+
+[see all publications →](research.qmd)
