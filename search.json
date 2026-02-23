@@ -25,14 +25,14 @@
     "href": "consulting.html",
     "title": "consulting",
     "section": "",
-    "text": "I do two kinds of consulting. If you’re not sure whether I can help, I’m happy to set up a free introductory call to talk through your project — no commitment."
+    "text": "I do two kinds of consulting."
   },
   {
     "objectID": "consulting.html#measurement-survey-design",
     "href": "consulting.html#measurement-survey-design",
     "title": "consulting",
     "section": "measurement & survey design",
-    "text": "measurement & survey design\nIf your work involves asking people to rate things on a scale — how happy they are, how wrong something is, how much pain they’re in — I can help you think about what those numbers actually mean and how to avoid the ways they can mislead you. This is what my research is about, and it turns out the standard practices are worse than most people realize.\nI can help with designing better self-report instruments, auditing existing surveys for known measurement artifacts, and understanding when your averages, group comparisons, or effect sizes might be telling you the wrong thing. I’m also available for talks and workshops for research teams."
+    "text": "measurement & survey design\nIf your work involves asking people to rate things on a scale — customer satisfaction, political attitudes, content moderation, RLHF preference ratings — I can help you think about what those numbers actually mean and how to interpret them correctly. This is what my research is about, and it turns out the standard practices are worse than most people realize.\nI can help you design better surveys, audit your existing ones, and analyze your data so you get the full picture. I’m also available for talks and workshops for research teams."
   },
   {
     "objectID": "consulting.html#writing",
