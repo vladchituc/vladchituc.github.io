@@ -1,5 +1,6 @@
 ---
 title: "research"
+body-classes: research-page
 ---
 
 ## journal articles

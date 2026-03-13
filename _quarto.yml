@@ -8,7 +8,7 @@ website:
   site-url: https://vladchituc.com
 
   navbar:
-    background: "#f7f2f2"
+    background: "#f8f4f4"
     foreground: "#222222"
     search: false
     left:
@@ -18,15 +18,15 @@ website:
         text: research
       - href: writing.qmd
         text: writing
-      - href: cv.qmd
-        text: cv
-      - href: contact.qmd
-        text: contact
+      - href: consulting.qmd
+        text: consulting
+      - href: https://vladchituc.com/glms-tools/
+        text: psychophysical measures
 
   page-footer:
-    left: "vladimir dot chituc at yale dot edu"
+    left: "vladimir.chituc[at]yale.edu"
     right: "Built with [Quarto](https://quarto.org)"
-    background: "#f7f2f2"
+    background: "#f8f4f4"
     foreground: "#999999"
     border: true
 
