@@ -9,7 +9,7 @@ body-classes: research-page
 [**Chituc, V.**]{.pub-authors}, Crockett, M. J., & Scholl, B. J. (2025). [How to show that a cruel prank is worse than a war crime: Shifting scales and missing benchmarks in the study of moral judgment.]{.pub-title} [*Cognition.*]{.pub-venue}
 
 ::: {.pub-links}
-[preprint](s/Chituc-EtAl-InPress-Cognition.pdf) [web](https://doi.org/10.1016/j.cognition.2025.106062) [data](s/magnitude-estimation.zip)
+[preprint](s/Chituc-EtAl-InPress-Cognition.pdf) [web](https://doi.org/10.1016/j.cognition.2025.106315) [data](s/magnitude-estimation.zip)
 :::
 :::
 
