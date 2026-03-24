@@ -41,7 +41,7 @@ Everett, J. A. C., Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W. J., 
 [**Chituc, V.**]{.pub-authors}, & Sinnott-Armstrong, W. (2020). [Moral conformity and its philosophical lessons.]{.pub-title} [*Philosophical Psychology.*]{.pub-venue}
 
 ::: {.pub-links}
-[web](https://doi.org/10.1080/09515089.2020.1782539)
+[web](https://doi.org/10.1080/09515089.2020.1719395)
 :::
 :::
 
@@ -49,7 +49,7 @@ Everett, J. A. C., Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W. J., 
 Henne, P., Semler, J., [**Chituc, V.**]{.pub-authors}, De Brigard, F., & Sinnott-Armstrong, W. (2018). [Against some recent arguments for 'ought' implies 'can.']{.pub-title} [*Philosophia.*]{.pub-venue}
 
 ::: {.pub-links}
-[web](https://doi.org/10.1007/s11406-017-9843-x)
+[web](https://doi.org/10.1007/s11406-017-9944-7)
 :::
 :::
 
@@ -65,7 +65,7 @@ Kelly, M., Ngo, L., [**Chituc, V.**]{.pub-authors}, Huettel, S., & Sinnott-Armst
 [**Chituc, V.**]{.pub-authors}, Henne, P., Sinnott-Armstrong, W., & De Brigard, F. (2016). [Blame, not ability, impacts moral "ought" judgments for impossible actions: Toward an empirical refutation of "ought" implies "can."]{.pub-title} [*Cognition.*]{.pub-venue}
 
 ::: {.pub-links}
-[web](https://doi.org/10.1016/j.cognition.2015.11.012)
+[web](https://doi.org/10.1016/j.cognition.2016.01.013)
 :::
 :::
 
@@ -73,7 +73,7 @@ Kelly, M., Ngo, L., [**Chituc, V.**]{.pub-authors}, Huettel, S., & Sinnott-Armst
 Henne, P., [**Chituc, V.**]{.pub-authors}, De Brigard, F., & Sinnott-Armstrong, W. (2016). [An empirical refutation of 'ought' implies 'can.']{.pub-title} [*Analysis.*]{.pub-venue}
 
 ::: {.pub-links}
-[web](https://doi.org/10.1093/analys/anv096)
+[web](https://doi.org/10.1093/analys/anw041)
 :::
 :::
 
@@ -81,7 +81,7 @@ Henne, P., [**Chituc, V.**]{.pub-authors}, De Brigard, F., & Sinnott-Armstrong, 
 Strohminger, N., Gray, K., [**Chituc, V.**]{.pub-authors}, Heffner, J., Schein, C., & Heagins, T. B. (2015). [The MR2: A multi-racial, mega-resolution database of facial stimuli.]{.pub-title} [*Behavior Research Methods.*]{.pub-venue}
 
 ::: {.pub-links}
-[web](https://doi.org/10.3758/s13428-014-0532-5)
+[web](https://doi.org/10.3758/s13428-015-0641-9)
 :::
 :::
 
@@ -97,7 +97,7 @@ Gjersoe, N. L., Newman, G., [**Chituc, V.**]{.pub-authors}, and Hood, B. (2014).
 Edwards, B. E., Rottman, B., Shankar, M., Betzler, R., [**Chituc, V.**]{.pub-authors}, Rodriguez, R., Silva, L., Wibecan, L., Widness, J., & Santos, L. R. (2014). [Do capuchin monkeys (Cebus apella) diagnose causal relations in the absence of a direct reward?]{.pub-title} [*PLoS ONE.*]{.pub-venue}
 
 ::: {.pub-links}
-[web](https://doi.org/10.1371/journal.pone.0073595)
+[web](https://doi.org/10.1371/journal.pone.0088595)
 :::
 :::
 
@@ -108,7 +108,7 @@ Edwards, B. E., Rottman, B., Shankar, M., Betzler, R., [**Chituc, V.**]{.pub-aut
 [**Chituc, V.**]{.pub-authors} (unpublished manuscript). [On the magic of 10 bits/s: A surprise constraint on the channel capacity of machine and human intelligence.]{.pub-title} [Written as a response to [this article](https://doi.org/10.1016/j.neuron.2024.11.008) in *Neuron*.]{.pub-venue}
 
 ::: {.pub-links}
-[preprint](https://vladchituc.substack.com/p/on-the-magic-of-10-bitss)
+[preprint](https://osf.io/preprints/osf/gbn3c_v2)
 :::
 :::
 

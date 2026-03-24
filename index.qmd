@@ -20,7 +20,7 @@ I finished my PhD in 2024 (also at Yale) where I worked with Brian Scholl, and m
 [**Chituc, V.**]{.pub-authors}, Crockett, M. J., & Scholl, B. J. (2025). [How to show that a cruel prank is worse than a war crime: Shifting scales and missing benchmarks in the study of moral judgment.]{.pub-title} [*Cognition.*]{.pub-venue}
 
 ::: {.pub-links}
-[preprint](s/Chituc-EtAl-InPress-Cognition.pdf) [web](https://doi.org/10.1016/j.cognition.2025.106062) [data](s/magnitude-estimation.zip)
+[preprint](s/Chituc-EtAl-InPress-Cognition.pdf) [web](https://doi.org/10.1016/j.cognition.2025.106315) [data](s/magnitude-estimation.zip)
 :::
 :::
 
@@ -44,7 +44,7 @@ Everett, J. A. C., Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W. J., 
 [**Chituc, V.**]{.pub-authors}, Henne, P., Sinnott-Armstrong, W., & De Brigard, F. (2016). [Blame, not ability, impacts moral "ought" judgments for impossible actions: Toward an empirical refutation of "ought" implies "can."]{.pub-title} [*Cognition.*]{.pub-venue}
 
 ::: {.pub-links}
-[web](https://doi.org/10.1016/j.cognition.2015.11.012)
+[web](https://doi.org/10.1016/j.cognition.2016.01.013)
 :::
 :::
 
@@ -52,7 +52,7 @@ Everett, J. A. C., Colombatto, C., Awad, E., Boggio, P., Bos, B., Brady, W. J., 
 [**Chituc, V.**]{.pub-authors} (unpublished manuscript). [On the magic of 10 bits/s: A surprise constraint on the channel capacity of machine and human intelligence.]{.pub-title} [Written as a response to [this article](https://doi.org/10.1016/j.neuron.2024.11.008) in *Neuron*.]{.pub-venue}
 
 ::: {.pub-links}
-[preprint](https://vladchituc.substack.com/p/on-the-magic-of-10-bitss)
+[preprint](https://osf.io/preprints/osf/gbn3c_v2)
 :::
 :::
 
