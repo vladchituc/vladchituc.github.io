@@ -1,0 +1,48 @@
+---
+title: "consulting"
+body-classes: consulting-page
+---
+
+I do two kinds of consulting. If you're not sure whether I can help, I'm happy to set up a free introductory call to talk through your project — no commitment.
+
+## measurement & survey design
+
+If your work involves asking people to rate things on a scale — how happy they are, how wrong something is, how much pain they're in — I can help you think about what those numbers actually mean and how to avoid the ways they can mislead you. This is what my research is about, and it turns out the standard practices are worse than most people realize.
+
+I can help with designing better self-report instruments, auditing existing surveys for known measurement artifacts, and understanding when your averages, group comparisons, or effect sizes might be telling you the wrong thing. I'm also available for talks and workshops for research teams.
+
+## writing
+
+I've written for *The New York Times*, *The New Republic*, and *The Daily Beast*, and I've spent a lot of time helping other people get clearer on the page. As a Writing Fellow at Yale's Graduate Writing Lab, I worked with students across disciplines on manuscripts, theses, fellowship applications, and journal submissions. I've also run NSF GRFP writing workshops for Yale's writing center and personal statement workshops for Yale Sneak Peek.
+
+I'm especially useful if you're trying to translate technical work for a general audience, if you're stuck on a manuscript and need someone to tell you what's actually going wrong, or if you're working on a fellowship or grant application.
+
+## what people have said
+
+::: {.testimonials}
+
+::: {.testimonial}
+"Vlad is really good at understanding what I'm trying to communicate and finding stronger ways to accomplish that, but while still maintaining my own voice."
+:::
+
+::: {.testimonial}
+"Not only did he improve my draft, he also made me more confident about resubmitting it."
+:::
+
+::: {.testimonial}
+"While this was a writing consultation, he also had feedback on my ideas and honest feedback as a reader with a psychology background."
+:::
+
+::: {.testimonial}
+"He is super fast and really gets at redundancies and wobbly sentences... he has a generous and accepting approach — I feel comfortable running any idea by him and he will gracefully suggest improvements. I generally get a lot of work done in the next hours after an appointment."
+:::
+
+::: {.testimonial}
+"Vlad offers a wonderful balance of grammatical edits, organizational suggestions and wonderful writing tips along the way."
+:::
+
+:::
+
+---
+
+Interested in working together? I'm happy to set up a free introductory call to talk about your project and see how I can help. Get in touch: vladimir dot chituc at yale dot edu
