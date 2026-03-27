@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://vladchituc.com/essays.html</loc>
+    <lastmod>2026-03-27T21:36:09.468Z</lastmod>
+  </url>
+  <url>
     <loc>https://vladchituc.com/research.html</loc>
-    <lastmod>2026-03-26T17:23:47.870Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vladchituc.com/writing.html</loc>
-    <lastmod>2026-03-26T17:23:47.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vladchituc.com/index.html</loc>
-    <lastmod>2026-03-26T17:23:47.869Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vladchituc.com/consulting.html</loc>
-    <lastmod>2026-03-26T17:23:47.869Z</lastmod>
+    <lastmod>2026-03-27T21:36:09.468Z</lastmod>
   </url>
   <url>
     <loc>https://vladchituc.com/cv.html</loc>
-    <lastmod>2026-03-26T17:23:47.869Z</lastmod>
+    <lastmod>2026-03-27T21:36:09.467Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vladchituc.com/consulting.html</loc>
+    <lastmod>2026-03-27T21:36:09.467Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vladchituc.com/index.html</loc>
+    <lastmod>2026-03-27T21:36:09.468Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vladchituc.com/writing.html</loc>
+    <lastmod>2026-03-27T21:36:09.483Z</lastmod>
   </url>
 </urlset>
