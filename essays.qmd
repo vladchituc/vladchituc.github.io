@@ -1,0 +1,159 @@
+---
+title: "vlad chituc"
+pagetitle: "vlad chituc — college essay consulting"
+body-classes: essay-page
+---
+
+::: {.hero}
+# get into your dream school
+
+Expert feedback on your college application essays from a Yale writing consultant with seven years of experience helping students and scholars write clearly, compellingly, and with confidence.
+
+[get started — free consultation]{.cta-button onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})"}
+:::
+
+---
+
+## how it works {#how-it-works}
+
+::: {.steps}
+::: {.step}
+### 1. submit your essay
+Upload your Common App personal statement, supplemental essay, or any other college application writing through the form below.
+:::
+
+::: {.step}
+### 2. get detailed feedback
+Within 48 hours, you'll receive line-by-line comments on structure, clarity, voice, and persuasiveness — plus a summary of what's working and what to focus on.
+:::
+
+::: {.step}
+### 3. revise with confidence
+Use the feedback to strengthen your essay. Book a follow-up session if you want to talk through revisions together.
+:::
+:::
+
+---
+
+## packages {#packages}
+
+::: {.packages}
+::: {.package}
+### essay review
+
+Detailed written feedback on one essay — line-by-line comments on structure, argument, clarity, and voice, plus a summary with priorities for revision. Returned within 48 hours.
+
+**129 per essay**
+
+[book a free consultation]{.cta-button-secondary onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})"}
+:::
+
+::: {.package .featured}
+
+### mentorship package {.featured-title}
+
+Three 30-minute sessions over Zoom plus unlimited essay reviews. We'll work together from brainstorming through final draft — personal statement, supplements, whatever you need.
+
+**649 per student**
+
+[book a free consultation]{.cta-button onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})"}
+:::
+
+::: {.package}
+### single session
+
+A focused 45-minute Zoom call to work through any stage of the writing process — brainstorming, outlining, revising a draft, or talking through feedback you've received elsewhere.
+
+**95 per session**
+
+[book a free consultation]{.cta-button-secondary onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})"}
+:::
+:::
+
+::: {.rush-note}
+Need it faster? 24-hour turnaround available for an additional 50 per essay.
+:::
+
+---
+
+## about {#about}
+
+I'm a postdoctoral researcher at Yale University. I've spent the last seven years as a Writing Consultant at Yale's Graduate Writing Lab, where I worked with hundreds of students across every discipline — on dissertations, journal articles, fellowship applications, and personal statements.
+
+I ran yearly workshops for NSF Graduate Research Fellowship applications and personal statement workshops for Yale Psychology's graduate admissions program. Before Yale, I was published in *The New York Times*, *The New Republic*, and *The Daily Beast*.
+
+I also spent a year mentoring advanced high school students through a structured research program — guiding them from reading scientific papers through writing their own college-level research reports.
+
+What I'm good at: understanding what you're trying to say and helping you say it more clearly, in your own voice. I won't rewrite your essay for you. I'll help you figure out what makes your story compelling and how to tell it well.
+
+---
+
+## what people have said
+
+:::::::: testimonials
+::: testimonial
+"Vlad is really good at understanding what I'm trying to communicate and finding stronger ways to accomplish that, but while still maintaining my own voice."
+:::
+
+::: testimonial
+"Not only did he improve my draft, he also made me more confident about resubmitting it."
+:::
+
+::: testimonial
+"He is super fast and really gets at redundancies and wobbly sentences... he has a generous and accepting approach — I feel comfortable running any idea by him and he will gracefully suggest improvements."
+:::
+
+::: testimonial
+"Vlad offers a wonderful balance of grammatical edits, organizational suggestions and wonderful writing tips along the way."
+:::
+
+::: testimonial
+"While this was a writing consultation, he also had feedback on my ideas and honest feedback as a reader with a psychology background."
+:::
+::::::::
+
+---
+
+## frequently asked questions {#faq}
+
+::: {.faq}
+::: {.faq-item}
+**Will you write my essay for me?**
+
+No. Your essay needs to sound like you, and admissions officers are very good at spotting essays that don't. I'll give you detailed feedback on what's working, what isn't, and how to make it better — but you do the writing. That's also what makes the essay actually good.
+:::
+
+::: {.faq-item}
+**What kinds of essays do you review?**
+
+Common App personal statements, Coalition essays, supplemental essays (Why This School, community, activity, etc.), UC PIQs, scholarship essays, and anything else that's part of a college application.
+:::
+
+::: {.faq-item}
+**When should I start?**
+
+The earlier the better. Most students benefit from starting over the summer before senior year. The Common App opens August 1, and early decision deadlines are typically November 1. That said, I work with students at every stage — if you have a draft due next week, I can help with that too.
+:::
+
+:::
+
+---
+
+## get in touch {#contact}
+
+I offer a free 15-minute introductory call to talk about where you are in the process and how I can help. No pressure, no commitment.
+
+::: {.contact-form}
+<form action="https://formspree.io/f/xpqoqpal" method="POST">
+<label for="name">name</label>
+<input type="text" id="name" name="name" required>
+
+<label for="email">email</label>
+<input type="email" id="email" name="email" required>
+
+<label for="message">tell me about your student and where they are in the process</label>
+<textarea id="message" name="message"></textarea>
+
+<button type="submit">send</button>
+</form>
+:::
