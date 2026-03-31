@@ -5,11 +5,13 @@ body-classes: essay-page
 ---
 
 ::: {.hero}
-# get into your dream school
+# college essay help from a Yale writing consultant
 
-Expert feedback on your college application essays from a Yale writing consultant with seven years of experience helping students and scholars write clearly, compellingly, and with confidence.
+Expert feedback on your college application essays from a Yale postdoctoral researcher with seven years of experience helping students write clearly, compellingly, and in their own voice. Starting at $95.
 
-[get started — free consultation]{.cta-button onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})"}
+Now taking students for the 2026–27 application cycle.
+
+[book a free 15-minute call](https://calendly.com/vladchituc/new-meeting){.cta-button target="_blank"}
 :::
 
 ---
@@ -45,7 +47,7 @@ Detailed written feedback on one essay — line-by-line comments on structure, a
 
 **129 per essay**
 
-[book a free consultation]{.cta-button-secondary onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})"}
+[book a free call](https://calendly.com/vladchituc/new-meeting){.cta-button-secondary target="_blank"}
 :::
 
 ::: {.package .featured}
@@ -56,7 +58,7 @@ Three 30-minute sessions over Zoom plus unlimited essay reviews. We'll work toge
 
 **649 per student**
 
-[book a free consultation]{.cta-button onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})"}
+[book a free call](https://calendly.com/vladchituc/new-meeting){.cta-button target="_blank"}
 :::
 
 ::: {.package}
@@ -66,7 +68,7 @@ A focused 45-minute Zoom call to work through any stage of the writing process �
 
 **95 per session**
 
-[book a free consultation]{.cta-button-secondary onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})"}
+[book a free call](https://calendly.com/vladchituc/new-meeting){.cta-button-secondary target="_blank"}
 :::
 :::
 
@@ -142,6 +144,10 @@ The earlier the better. Most students benefit from starting over the summer befo
 ## get in touch {#contact}
 
 I offer a free 15-minute introductory call to talk about where you are in the process and how I can help. No pressure, no commitment.
+
+[book a free 15-minute call](https://calendly.com/vladchituc/new-meeting){.cta-button target="_blank"}
+
+Or send a message and I'll get back to you within 24 hours:
 
 ::: {.contact-form}
 <form action="https://formspree.io/f/xpqoqpal" method="POST">
