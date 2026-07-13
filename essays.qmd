@@ -17,7 +17,7 @@ include-in-header:
 ::: {.hero}
 # college essay help from a Yale writing consultant
 
-Expert feedback on your college application essays from a Yale postdoctoral researcher with seven years of experience helping students write clearly, compellingly, and in their own voice. Starting at $95.
+Expert feedback on your college application essays from a Stanford postdoctoral researcher with seven years of experience helping students write clearly, compellingly, and in their own voice. Starting at $95.
 
 Now taking students for the 2026–27 application cycle.
 
@@ -90,7 +90,7 @@ Need it faster? 24-hour turnaround available for an additional 50 per essay.
 
 ## about {#about}
 
-I'm a postdoctoral researcher at Yale University. I've spent the last seven years as a Writing Consultant at Yale's Graduate Writing Lab, where I worked with hundreds of students across every discipline — on dissertations, journal articles, fellowship applications, and personal statements.
+I'm a postdoctoral researcher at Stanford University. I spent seven years as a Writing Consultant at Yale's Graduate Writing Lab, where I worked with hundreds of students across every discipline — on dissertations, journal articles, fellowship applications, and personal statements.
 
 I ran yearly workshops for NSF Graduate Research Fellowship applications and personal statement workshops for Yale Psychology's graduate admissions program. Before Yale, I was published in *The New York Times*, *The New Republic*, and *The Daily Beast*.
 
