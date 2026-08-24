@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "s/*.html"
 
 website:
   title: "vlad chituc"
